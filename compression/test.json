@@ -1,0 +1,33 @@
+{
+    "public": {
+        "rootUrl": "http://localhost:3000",
+        "secure": false,
+        "minSearchChars": 3,
+        "supportEmail": "support@medssenger.com",
+        "GcmSender": 856966477956,
+        "maxBodySize": 13,
+        "cordovaHost": "http://localhost:12416"
+    },
+    "environment": {
+        "enduserUrl": "http://localhost:3000",
+        "adminUrl": "http://localhost:3001",
+        "fromUser": "support@medssenger.net",
+        "bootstrapUser": {
+            "name": "Server Daemon",
+            "email": "daemon@medssenger.com",
+            "password": "123123"
+        }
+    },
+    "devicePush": {
+        "apn": {
+            "expiry": 1123200,
+            "production": false,
+            "appName": "app"
+        },
+        "gcm": {
+            "timeToLive": 1123200
+        }
+    },
+    "logLevel": 3,
+    "jsonSpaces": 4
+}

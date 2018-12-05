@@ -1,0 +1,13 @@
+
+
+this is taken directly from
+https://stackimpact.com/blog/practical-golang-benchmarks/
+
+
+
+I need to checkout 
+	
+	StackImpact Go Profiler 
+	Production-Grade Performance Profiler: CPU, memory allocations, blocking calls, errors, metrics
+	https://stackimpact.com
+	https://github.com/stackimpact/stackimpact-go
